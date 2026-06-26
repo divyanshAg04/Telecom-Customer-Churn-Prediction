@@ -46,7 +46,7 @@ This project applies Machine Learning techniques to analyze and predict customer
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/just-aakash/churn-prediction-ml.git
+   git clone https://github.com/divyanshAg04/Telecom-Customer-Churn-Prediction.git
    ```
 2. Ensure you have Jupyter Notebook installed or open the `.ipynb` file in Google Colab.
 3. Install the required dependencies:
