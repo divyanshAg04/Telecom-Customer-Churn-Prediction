@@ -1,0 +1,5 @@
+# Treat all HTML, CSS, JavaScript, and Python files as vendored (ignored from language stats)
+*.html linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.py linguist-vendored
